@@ -1,1 +1,1 @@
-Tasks for Machine Learning 2021
+Tasks for Machine Learning 2022
